@@ -1,0 +1,14 @@
+
+.venv/
+
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Raw/local data
+data/
